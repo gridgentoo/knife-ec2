@@ -1,5 +1,11 @@
 # knife-ec2
 
+# Оригинальный репозиторий
+https://github.com/chef/knife-ec2
+
+# Chef по обе стороны Bamboo / Артем Семенов (Align Technology, Inc)
+https://www.youtube.com/watch?v=htnFfRvx_6A
+
 # Chef за 21 день. Часть первая. Введение
 https://habr.com/ru/company/epam_systems/blog/208542/
 

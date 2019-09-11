@@ -1,6 +1,16 @@
 # knife-ec2
 
+# Chef за 21 день. Часть первая. Введение
+https://habr.com/ru/company/epam_systems/blog/208542/
+
+# Chef за 21 день. Часть вторая. Создание и использование cookbook
+https://habr.com/ru/company/epam_systems/blog/209368/
+
+# Chef за 21 день. Часть третья. Chef и AWS
+https://habr.com/ru/company/epam_systems/blog/211050/
+
 # Knife EC2
+
 [![Gem Version](https://badge.fury.io/rb/knife-ec2.svg)](https://rubygems.org/gems/knife-ec2)
 [![Build status](https://badge.buildkite.com/6dce7349d1291de0f8a8c68a78cb6829067d5e44bec7c4c552.svg?branch=master)](https://buildkite.com/chef-oss/chef-knife-ec2-master-verify)
 
